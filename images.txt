@@ -7,6 +7,6 @@
 # --platform=linux/arm64 homeassistant/home-assistant:latest
 # arm64v8/ubuntu:latest
 
---platform=linux/arm64 gitlab
+--platform=linux/arm64 gitlab-ce
 
 
