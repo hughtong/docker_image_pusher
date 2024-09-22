@@ -8,5 +8,8 @@
 # arm64v8/ubuntu:latest
 
 --platform linux/arm64 gitlab/gitlab-ce:latest
+code-server:latest
+home-assistant:latest
+
 
 
