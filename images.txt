@@ -10,5 +10,6 @@
 
 # codercom/code-server:latest
 # postgres:16
-ruby 
+# ruby 
+gitlab-ee:latest
 
