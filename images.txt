@@ -12,4 +12,5 @@
 # postgres:16
 # ruby 
 # gitlab/gitlab-ce:latest
-gitlab/gitlab-ee:latest
+# gitlab/gitlab-ee:latest
+easysoft/zentao:latest
