@@ -13,4 +13,5 @@
 # ruby 
 # gitlab/gitlab-ce:latest
 # gitlab/gitlab-ee:latest
-easysoft/zentao:latest
+# easysoft/zentao:latest
+portainer/portainer-ce:latest
