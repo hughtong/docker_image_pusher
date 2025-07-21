@@ -14,4 +14,5 @@
 # gitlab/gitlab-ce:latest
 # gitlab/gitlab-ee:latest
 # easysoft/zentao:latest
-portainer/portainer-ce:latest
+# portainer/portainer-ce:latest
+hub.zentao.net/app/zentao:ipd4.1
