@@ -15,4 +15,5 @@
 # gitlab/gitlab-ee:latest
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
-hub.zentao.net/app/zentao:ipd4.1
+# hub.zentao.net/app/zentao:ipd4.1
+homeassistant/home-assistant:latest
