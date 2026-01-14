@@ -12,7 +12,7 @@
 # postgres:16
 # ruby 
 # gitlab/gitlab-ce:latest
-gitlab/gitlab-ee:15.1.0-ee.0
+gitlab/gitlab-ee:latest
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
