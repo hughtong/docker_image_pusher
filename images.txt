@@ -10,9 +10,9 @@
 
 # codercom/code-server:latest
 # postgres:16
-ruby 
+# ruby 
 # gitlab/gitlab-ce:latest
-# gitlab/gitlab-ee:latest
+gitlab/gitlab-ee:15.1.0
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
