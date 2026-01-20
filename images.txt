@@ -12,8 +12,8 @@
 # postgres:16
 # ruby 
 # gitlab/gitlab-ce:latest
-gitlab/gitlab-ee:16.3.0-ee.0
-gitlab/gitlab-ee:15.13.0-ee.0
+# gitlab/gitlab-ee:16.3.0-ee.0
+gitlab/gitlab-ee:15.12.0-ee.0
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
