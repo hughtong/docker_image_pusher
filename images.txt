@@ -18,4 +18,4 @@
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
 # homeassistant/home-assistant:latest
-sonar-scanner-cli:latest
+SonarSource/sonar-scanner-cli:latest
