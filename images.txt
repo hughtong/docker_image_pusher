@@ -19,4 +19,5 @@
 # hub.zentao.net/app/zentao:ipd4.1
 # homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
-sonarqube:latest
+# sonarqube:latest
+gitlab-runner:latest
