@@ -20,4 +20,5 @@
 # homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
-gitlab-runner:latest
+
+gitlab/gitlab-runner:latest
