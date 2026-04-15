@@ -20,5 +20,6 @@
 # homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
-alpine:latest
+# alpine:latest
 # gitlab/gitlab-runner:latest
+ubuntu:22.04
