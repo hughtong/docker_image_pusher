@@ -17,9 +17,9 @@
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
-# homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
 # alpine:latest
 # gitlab/gitlab-runner:latest
-ubuntu:24.04
+# ubuntu:24.04
