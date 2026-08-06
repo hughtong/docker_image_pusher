@@ -23,3 +23,4 @@ homeassistant/home-assistant:latest
 # alpine:latest
 # gitlab/gitlab-runner:latest
 # ubuntu:24.04
+almalinux:8
