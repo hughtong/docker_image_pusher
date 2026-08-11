@@ -17,7 +17,7 @@
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
 # alpine:latest
@@ -25,4 +25,5 @@ homeassistant/home-assistant:latest
 # ubuntu:24.04
 # almalinux:8
 # xilinx/edf:ubuntu2204-25.11
-xilinx/edf:ubuntu2204-26.06
+# xilinx/edf:ubuntu2204-26.06
+postgres:17-alpine
