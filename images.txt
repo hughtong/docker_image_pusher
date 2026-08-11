@@ -26,4 +26,5 @@
 # almalinux:8
 # xilinx/edf:ubuntu2204-25.11
 # xilinx/edf:ubuntu2204-26.06
-postgres:17-alpine
+# postgres:17-alpine
+python:3.12-slim
