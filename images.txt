@@ -27,4 +27,5 @@
 # xilinx/edf:ubuntu2204-25.11
 # xilinx/edf:ubuntu2204-26.06
 # postgres:17-alpine
-python:3.12-slim
+# python:3.12-slim
+docker:29-cli 
