@@ -17,7 +17,7 @@
 # easysoft/zentao:latest
 # portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
-# homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
 # alpine:latest
@@ -29,4 +29,4 @@
 # postgres:17-alpine
 # python:3.12-slim
 # docker:29-cli 
-nginx:1.30.4-alpine
+# nginx:1.30.4-alpine
