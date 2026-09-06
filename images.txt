@@ -15,9 +15,9 @@
 # gitlab/gitlab-ee:17.3.0-ee.0
 # gitlab/gitlab-ee:18.0.0-ee.0
 # easysoft/zentao:latest
-# portainer/portainer-ce:latest
+portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
 # sonarqube:latest
 # alpine:latest
@@ -30,3 +30,4 @@ homeassistant/home-assistant:latest
 # python:3.12-slim
 # docker:29-cli 
 # nginx:1.30.4-alpine
+homebox
