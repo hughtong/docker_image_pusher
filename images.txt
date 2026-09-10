@@ -15,7 +15,7 @@
 # gitlab/gitlab-ee:17.3.0-ee.0
 # gitlab/gitlab-ee:18.0.0-ee.0
 # easysoft/zentao:latest
-portainer/portainer-ce:latest
+# portainer/portainer-ce:latest
 # hub.zentao.net/app/zentao:ipd4.1
 # homeassistant/home-assistant:latest
 # sonarsource/sonar-scanner-cli:latest
@@ -31,4 +31,5 @@ portainer/portainer-ce:latest
 # docker:29-cli 
 # nginx:1.30.4-alpine
 # kimi360/homebox:0.1.1
-debian:bookworm-slim
+# debian:bookworm-slim
+linuxserver/code-server:latest
