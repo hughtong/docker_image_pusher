@@ -11,7 +11,7 @@
 # codercom/code-server:latest
 # postgres:16
 # ruby 
-# gitlab/gitlab-ce:latest
+gitlab/gitlab-ce:19.2.1-ce.0
 # gitlab/gitlab-ee:17.3.0-ee.0
 # gitlab/gitlab-ee:18.0.0-ee.0
 # easysoft/zentao:latest
@@ -34,4 +34,4 @@
 # debian:bookworm-slim
 # linuxserver/code-server:latest
 # easysoft/zentao:latest
-easysoft/zentao:22.4-php7
+# easysoft/zentao:22.4-php7
